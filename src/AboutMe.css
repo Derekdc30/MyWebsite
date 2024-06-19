@@ -1,0 +1,38 @@
+.aboutme-main-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+  }
+  
+  .aboutme-photo {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .aboutme-photo img {
+    max-width: 150px;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .aboutme-introduction {
+    text-align: left;
+  }
+  
+  .aboutme-introduction h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .aboutme-introduction p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+  

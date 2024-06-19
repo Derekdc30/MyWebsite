@@ -1,0 +1,51 @@
+.cv-container {
+    max-width: 1500px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+  }
+  
+  .cv-columns {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .cv-column {
+    flex: 1;
+    margin-left: 20px;
+    margin-right:  20px;
+  }
+  
+  
+  .download-btn {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .download-btn:hover {
+    background-color: #0056b3;
+  }
+
+  .cv-container.cv-columns.cv-column section {
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+  }
+  .cv-column section p{
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+  .cv-column section ul li {
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+  

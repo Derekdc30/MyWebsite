@@ -1,0 +1,45 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  color: #fff;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  z-index: 1; /* Ensure the header is on top of other elements */
+}
+
+.header h1 {
+  margin: 0;
+}
+
+.header nav ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  gap: 70%;
+}
+
+.header nav ul li{
+  margin-left: 10px;
+  
+}
+
+.header nav a {
+  overflow: hidden;
+  color: #000000;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+  text-wrap:nowrap;
+}
+.header nav ul li.active a {
+  font-weight: bolder;
+  font-size: larger;
+}
+.header nav ul li.unactive  a {
+  color: #646464;
+  font-size: smaller;
+}
