@@ -5,7 +5,7 @@ export default function JobExp() {
       <div className="container">
         <div className="left-half">
           <div className="content">
-            <img src="./src/assets/Intern.jpeg" alt="Left Image"></img>
+            <img src="/assets/Intern.jpeg" alt="Left Image"></img>
             <p>During my internship at Simatelex, I worked on three key projects that significantly contributed to my growth. 
               The first project involved embedded programming, where I handled tasks like programming buttons, LEDs, and a buzzer, along with creating an IO table for pin allocation. 
               This experience deepened my understanding of embedded C language and emphasized the importance of organized coding practices.
@@ -30,7 +30,7 @@ export default function JobExp() {
               Additionally, the role as an Electronic and Software Engineer involved contributing to STEM product development, 
               collaborating with a team to create innovative educational tools and resources that leverage IoT principles. These experiences highlighted the importance of effective communication, 
               teamwork, and adaptability in delivering impactful STEM education and developing engaging products that inspire curiosity and creativity in young learners.</p>
-            <img src="./src/assets/SmartCity.jpeg" alt="Right Image"></img>
+            <img src="/assets/SmartCity.jpeg" alt="Right Image"></img>
           </div>
         </div>
       </div>
