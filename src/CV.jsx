@@ -1,7 +1,7 @@
 import "./CV.css";
 export default function CV() {
     const handleDownload = () => {
-    window.open(`${process.env.PUBLIC_URL}/cv.pdf`, "_blank");
+    window.open("/assets/Choy_Wing_Ho_CV.pdf", "_blank");
   };
 
   return (
