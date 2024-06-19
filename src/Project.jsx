@@ -9,7 +9,7 @@ export default function Project() {
           <div className="project">
             <div className="video-container">
               <video width="320" height="240" controls>
-                <source src="./src/assets/RTT.mp4" type="video/mp4"></source>
+                <source src="src/assets/RTT.mp4" type="video/mp4"></source>
                 Your browser does not support the video.
               </video>
             </div>
