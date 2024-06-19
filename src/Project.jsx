@@ -9,7 +9,7 @@ export default function Project() {
           <div className="project">
             <div className="video-container">
               <video width="320" height="240" controls>
-                <source src="src/assets/RTT.mp4" type="video/mp4"></source>
+                <source src="/assets/RTT.mp4" type="video/mp4"></source>
                 Your browser does not support the video.
               </video>
             </div>
@@ -53,8 +53,8 @@ export default function Project() {
           </div>
           <div className="project">
             <div className="image-container">
-              <img src="./src/assets/SmartCity2.jpeg" alt="Project 4" />
-              <img src="./src/assets/SmartHome.jpeg" alt="Project 4" />
+              <img src="src/assets/SmartCity2.jpeg" alt="Project 4" />
+              <img src="/SmartHome.jpeg" alt="Project 4" />
             </div>
             <div className="text-container">
               <h2>Smart Home & Smart City</h2>
