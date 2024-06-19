@@ -1,6 +1,6 @@
 import "./Footer.css";
-import emailLogo from "./assets/email.jpg";
-import LinkedinLogo from "./assets/Linkedin.png";
+import emailLogo from "/assets/email.jpg";
+import LinkedinLogo from "/assets/Linkedin.png";
 
 // eslint-disable-next-line react/prop-types
 export default function Footer({ pageIndex }) {
