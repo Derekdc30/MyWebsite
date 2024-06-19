@@ -6,7 +6,7 @@ export default function HomePage() {
     <>
       <div className="main-content">
         <div className="photo">
-          <img src="path_to_your_photo.jpg" alt="My Photo" />
+          <img src="/assets/Selfie.jpeg" alt="My Photo" />
         </div>
         <div className="introduction">
           <h1>Hi, I'm Derek</h1>
