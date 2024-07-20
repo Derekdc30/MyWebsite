@@ -14,7 +14,7 @@ export default function AboutMe() {
             I have also worked as a Software Engineering Trainee at Simatelex and held part-time positions as a STEM teacher and Electronic and Software Engineer at Aloes Trees EdTech Limited. These experiences have honed my skills in Python, C, Java, and embedded software development.
           </p>
           <p>
-            I am now seeking full-time opportunities where I can contribute my skills and continue to grow professionally in the field of software engineering and embedded systems.
+            I am now seeking job opportunities where I can contribute my skills and continue to grow professionally in the field of software engineering and embedded systems.
           </p>
         </div>
       </div>
